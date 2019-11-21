@@ -384,59 +384,59 @@ th {
 }
 @font-face {
 	font-family: 'Roboto';
-	src: url('/fonts/roboto/Roboto-Regular-webfont.eot');
-	src: url('/fonts/roboto/Roboto-Regular-webfont.eot?#iefix') format('embedded-opentype'),
-		 url('/fonts/roboto/Roboto-Regular-webfont.woff2') format('woff2'),
-		 url('/fonts/roboto/Roboto-Regular-webfont.woff') format('woff'),
-		 url('/fonts/roboto/Roboto-Regular-webfont.ttf') format('truetype'),
-		 url('/fonts/roboto/Roboto-Regular-webfont.svg#robotoregular') format('svg');
+	src: url('/public/fonts/roboto/Roboto-Regular-webfont.eot');
+	src: url('/public/fonts/roboto/Roboto-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+		 url('/public/fonts/roboto/Roboto-Regular-webfont.woff2') format('woff2'),
+		 url('/public/fonts/roboto/Roboto-Regular-webfont.woff') format('woff'),
+		 url('/public/fonts/roboto/Roboto-Regular-webfont.ttf') format('truetype'),
+		 url('/public/fonts/roboto/Roboto-Regular-webfont.svg#robotoregular') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
 @font-face {
 	font-family: 'Roboto-Medium';
-	src: url('/fonts/roboto-medium/Roboto-Medium.eot');
-	src: url('/fonts/roboto-medium/Roboto-Medium.eot?#iefix') format('embedded-opentype'),
-		 url('/fonts/roboto-medium/Roboto-Medium.woff2') format('woff2'),
-		 url('/fonts/roboto-medium/Roboto-Medium.woff') format('woff'),
-		 url('/fonts/roboto-medium/Roboto-Medium.ttf') format('truetype');
+	src: url('/public/fonts/roboto-medium/Roboto-Medium.eot');
+	src: url('/public/fonts/roboto-medium/Roboto-Medium.eot?#iefix') format('embedded-opentype'),
+		 url('/public/fonts/roboto-medium/Roboto-Medium.woff2') format('woff2'),
+		 url('/public/fonts/roboto-medium/Roboto-Medium.woff') format('woff'),
+		 url('/public/fonts/roboto-medium/Roboto-Medium.ttf') format('truetype');
 	font-weight: normal;
 	font-style: normal;
 }
 @font-face {
 	font-family: 'Roboto-Light';
-	src: url('/fonts/roboto-light/roboto-light-webfont.eot');
-	src: url('/fonts/roboto-light/roboto-light-webfont.eot?#iefix') format('embedded-opentype'),
-		 url('/fonts/roboto-light/roboto-light-webfont.woff2') format('woff2'),
-		 url('/fonts/roboto-light/roboto-light-webfont.woff') format('woff'),
-		 url('/fonts/roboto-light/roboto-light-webfont.ttf') format('truetype'),
-		 url('/fonts/roboto-light/roboto-light-webfont.svg#robotolight') format('svg');
+	src: url('/public/fonts/roboto-light/roboto-light-webfont.eot');
+	src: url('/public/fonts/roboto-light/roboto-light-webfont.eot?#iefix') format('embedded-opentype'),
+		 url('/public/fonts/roboto-light/roboto-light-webfont.woff2') format('woff2'),
+		 url('/public/fonts/roboto-light/roboto-light-webfont.woff') format('woff'),
+		 url('/public/fonts/roboto-light/roboto-light-webfont.ttf') format('truetype'),
+		 url('/public/fonts/roboto-light/roboto-light-webfont.svg#robotolight') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
 @font-face {
 	font-family: 'Roboto Thin';
-	src: url('/fonts/roboto-thin/Roboto-Thin-webfont.eot');
-	src: url('/fonts/roboto-thin/Roboto-Thin-webfont.eot?#iefix') format('embedded-opentype'),
-		 url('/fonts/roboto-thin/Roboto-Thin-webfont.woff') format('woff'),
-		 url('/fonts/roboto-thin/Roboto-Thin-webfont.ttf') format('truetype'),
-		 url('/fonts/roboto-thin/Roboto-Thin-webfont.svg#robotoregular') format('svg');
+	src: url('/public/fonts/roboto-thin/Roboto-Thin-webfont.eot');
+	src: url('/public/fonts/roboto-thin/Roboto-Thin-webfont.eot?#iefix') format('embedded-opentype'),
+		 url('/public/fonts/roboto-thin/Roboto-Thin-webfont.woff') format('woff'),
+		 url('/public/fonts/roboto-thin/Roboto-Thin-webfont.ttf') format('truetype'),
+		 url('/public/fonts/roboto-thin/Roboto-Thin-webfont.svg#robotoregular') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
 @font-face {
 	font-family: 'Roboto-Italic';
-	src: url('/fonts/roboto-italic/Roboto-Italic.ttf') format('truetype');         
+	src: url('/public/fonts/roboto-italic/Roboto-Italic.ttf') format('truetype');         
 	font-weight: normal;
 	font-style: normal;
 }
 @font-face {
 	font-family: 'Roboto-Bold';
-	src: url('/fonts/roboto-bold/Roboto-Bold.eot');
-	src: url('/fonts/roboto-bold/Roboto-Bold.eot?#iefix') format('embedded-opentype'),
-		 url('/fonts/roboto-bold/Roboto-Bold.woff') format('woff'),
-		 url('/fonts/roboto-bold/Roboto-Bold.woff2') format('woff2'),
-		 url('/fonts/roboto-bold/Roboto-Bold.ttf') format('truetype');
+	src: url('/public/fonts/roboto-bold/Roboto-Bold.eot');
+	src: url('/public/fonts/roboto-bold/Roboto-Bold.eot?#iefix') format('embedded-opentype'),
+		 url('/public/fonts/roboto-bold/Roboto-Bold.woff') format('woff'),
+		 url('/public/fonts/roboto-bold/Roboto-Bold.woff2') format('woff2'),
+		 url('/public/fonts/roboto-bold/Roboto-Bold.ttf') format('truetype');
 	font-weight: normal;
 	font-style: normal;
 }
